@@ -1,0 +1,1 @@
+Library hours from le Google Calander.  V3.  Mostly taken from the fined expertise of Stepehen Anderson at a state school in Illionois.  Take at will.    
