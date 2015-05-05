@@ -1,1 +1,1 @@
-Library hours from le Google Calander.  V3.  Mostly taken from the fined expertise of Stepehen Anderson at a state school in Illionois.  Take at will.    
+Library hours from le Google Calander.  V3.  Mostly taken from the rad expertise of Stepehen Anderson at a state school in Illionois.  Take at will or email me if you need help.  mhanlin@reynolds.edu    
